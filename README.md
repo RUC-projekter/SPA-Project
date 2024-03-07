@@ -1,5 +1,5 @@
 # IMDB SPA-Project
-Welcome, everyone! Today, I'm excited to present our journey in developing a Single Page Web Application (SPA), a comprehensive project management system. Our project harnesses the power of Navicat for database management, ASP.NET Core for server-side scripting, and React for frontend development.
+Welcome, everyone! Today, I'm excited to present our journey in developing a Single Page Web Application (SPA). Our project harnesses the power of Navicat for database, C# for the server, and React for frontend.
 
 
 # Database Access Information
