@@ -1,4 +1,4 @@
-# IMDB SPA-Project
+# IMDB SPA(Single-page application)-Project
 Welcome, everyone! Today, I'm excited to present our journey in developing a Single Page Web Application (SPA). Our project harnesses the power of Navicat for database, C# for the server, and React for frontend.
 
 
